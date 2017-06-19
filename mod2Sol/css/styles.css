@@ -15,12 +15,13 @@ div#container{
 p {
 	border: 1px solid black;
 	width: 80px;
-	height: 25px;
+	height: 30px;
 	font-family: "Comic Sans MS";
 	margin-left: 100%;
 	color: black;
 	text-align: center;
 	font-weight: bold;
+	font-size: 125%;
 }
 
 #p1{
@@ -32,6 +33,7 @@ p {
 	margin-left: auto;
 	text-align: justify;
 	font-weight: normal;
+	font-size: 100%;
 	
 }	
 
@@ -55,7 +57,7 @@ p {
 	font-family: "Comic Sans MS";
 	font-weight: bold;
 	text-align: center;
-	font-size: 200%;
+	font-size: 175%;
 	color: blue;
 	
 }
